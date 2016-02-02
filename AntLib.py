@@ -12,7 +12,7 @@ HodgkinHuxley Type II parameters
 
 Butera1999 Generator
 
-Connor 1977 Generator
+Connor 1977 Generato
 
 Integrate and Fire Generator (Clewley PyDSTool lib)
 """
